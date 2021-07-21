@@ -8,6 +8,6 @@ Runs disassembler.py, loads and executes binary ARM input file branchtest_bin.tx
     
 (1) will contain the disassembled program code 
 
-(2) instruction by instruction simulation of ARM program. Executes instructions sequntially (non-pipelined) and output the contents of all registers and memory after each instruction.
+(2) instruction by instruction simulation of ARM program. Executes instructions sequentially (non-pipelined) and output the contents of all registers and memory after each instruction.
 
 
