@@ -7,5 +7,7 @@ Runs disassembler.py, loads and executes binary ARM input file branchtest_bin.tx
     Outputs content onto two text files (1) team23_out_dis.txt and (2) team23_out_sim.txt
     
 (1) will contain the disassembled program code 
-(2) will contain a cycle by cycle simulation showing the processor state (contents of registers, buffers, cache, and data memory) at each cycle
+
+(2) instruction by instruction simulation of ARM program. Executes instructions sequntially (non-pipelined) and output the contents of all registers and memory after each instruction.
+
 
